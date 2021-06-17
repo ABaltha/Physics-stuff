@@ -1,0 +1,3 @@
+Just some computations I did studying Fortran 90 in a Computational Physics class.
+
+Most of these are very simple, the focus was exploring the main aspect of Fortran 90 we were learning about, precision.
