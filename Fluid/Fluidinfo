@@ -1,0 +1,1 @@
+In this one we simulated a fluid passing through a space with a square box in the middle. Fluid dynamics is very difficult to visualize analyticaly, but if we simulate it using a heat graph, we can see the turbulance and deflection caused by the box.
