@@ -1,0 +1,5 @@
+These calculations I made when studying Computational Classical Mechanics explore some simulations of a simple pendulum in its approximated and/or exact form (when sin(/theta) is approximated to /theta, for small angles)
+
+Furthermore we explore double pendulums and the definition of a caotic system, eventually graphing the evolution of a caotic/non-caotic divergence, which for me personally is beautiful.
+
+In the Poincaré session, we saw how caos and order are not far apart as we commonly imagine, and we can see a correlation of the angles in a caotic regime when we plot them in the Poincaré Session, generating that nice pattern.
